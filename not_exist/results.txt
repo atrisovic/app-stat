@@ -1,0 +1,185 @@
+Boole v18r1 
+Boole v19r6 
+Boole v19r7 
+Boole v20r0 
+Boole v20r1 
+Boole v20r2 
+Boole v20r3 
+Boole v21r0 
+Boole v21r1 
+Boole v21r2 
+Boole v21r3 
+Boole v21r5 
+Boole v21r6 1
+Boole v21r8  1
+Boole v21r9 
+Boole v22r1 
+Boole v22r3 
+Boole v26r1 
+Boole v26r10 
+Boole v26r2 
+Boole v26r4 
+Boole v26r7 
+Brunel v34r7 
+Brunel v35r10 1
+Brunel v35r11 1
+Brunel v35r6 1
+Brunel v35r7 
+Brunel v36r0 1
+Brunel v36r1 
+Brunel v36r2 
+Brunel v37r2 1 2
+Brunel v37r4 
+Brunel v37r6 1
+Brunel v37r7 
+Brunel v37r8  1 5
+Brunel v41r1 
+Brunel v42r3 2
+Brunel v43r1 1
+Brunel v43r2 5
+Brunel v44r2 
+Brunel v44r3  1
+Brunel v44r4 1
+Brunel v44r6 
+DaVinci v26r3 2
+Gauss v37r2 
+Gauss v37r3 1
+Gauss v37r4 
+Gauss v37r5 
+Gauss v37r6 1
+Gauss v37r7 
+Gauss v38r0 1
+Gauss v38r1 
+Gauss v38r2 
+Gauss v38r3 
+Gauss v46r2 
+Gauss v49r6 
+LHCb v29r1 
+LHCb v35r1 
+Moore v12r6 1g4
+
+
+Brunel v37r8 322
+Boole v21r9 320
+DaVinci v26r3 289
+Brunel v34r7 77
+Boole v21r2 74
+Boole v18r1 73
+Boole v21r6 34
+Brunel v37r6 34
+Boole v26r7 33
+Gauss v37r3 31
+Brunel v42r3 31
+Gauss v37r5 26
+Boole v26r4 22
+Brunel v44r6 21
+Gauss v38r3 20
+Brunel v44r3 20
+Boole v26r1 18
+Gauss v49r6 17
+Boole v19r6 15
+Brunel v35r6 15
+Brunel v44r4 14
+Gauss v37r2 13
+Boole v20r3 13
+LHCb v29r1 12
+Brunel v36r1 12
+Brunel v41r1 11
+Gauss v37r4 9
+Gauss v37r6 8
+Gauss v46r2 8
+Boole v21r0 7
+Boole v26r2 6
+Gauss v38r0 6
+Boole v22r3 6
+Brunel v36r0 6
+Brunel v35r10 6
+Boole v20r0 6
+Boole v20r2 6
+Brunel v36r2 6
+Boole v21r8 5
+Brunel v43r2 5
+Boole v26r10 4
+Brunel v37r4 4
+Boole v21r5 4
+LHCb v35r1 4
+Brunel v43r1 4
+Gauss v37r7 3
+Boole v19r7 3
+Brunel v37r2 3
+Boole v20r1 3
+Gauss v38r2 2
+Brunel v44r2 2
+Boole v22r1 2
+Brunel v35r11 2
+Boole v21r1 2
+Brunel v37r7 2
+Moore v12r6 2
+Brunel v35r7 2
+Boole v21r3 2
+Gauss v38r1 1
+
+
+\begin{tabular}{| l | l | l |}
+\hline
+Boole v18r1 &  & 73 \\ \hline
+Boole v19r6 &  & 15 \\ \hline
+Boole v19r7 &  & 3 \\ \hline
+Boole v20r0 &  & 6 \\ \hline
+Boole v20r1 &  & 3 \\ \hline
+Boole v20r2 &  & 6 \\ \hline
+Boole v20r3 &  & 13 \\ \hline
+Boole v21r0 &  & 7 \\ \hline
+Boole v21r1 &  & 2 \\ \hline
+Boole v21r2 &  & 74 \\ \hline
+Boole v21r3 &  & 2 \\ \hline
+Boole v21r5 &  & 4 \\ \hline
+Boole v21r6 & 1 & 34 \\ \hline
+Boole v21r8 &  1 & 5 \\ \hline
+Boole v21r9 &  & 320 \\ \hline
+Boole v22r1 &  & 2 \\ \hline
+Boole v22r3 &  & 6 \\ \hline
+Boole v26r1 &  & 18 \\ \hline
+Boole v26r10 &  & 4 \\ \hline
+Boole v26r2 &  & 6 \\ \hline
+Boole v26r4 &  & 22 \\ \hline
+Boole v26r7 &  & 33 \\ \hline
+Brunel v34r7 &  & 77 \\ \hline
+Brunel v35r10 & 1 & 6 \\ \hline
+Brunel v35r11 & 1 & 2 \\ \hline
+Brunel v35r6 & 1 & 15 \\ \hline
+Brunel v35r7 &  & 2 \\ \hline
+Brunel v36r0 & 1 & 6 \\ \hline
+Brunel v36r1 &  & 12 \\ \hline
+Brunel v36r2 &  & 6 \\ \hline
+Brunel v37r2 & 1 2 & 3 \\ \hline
+Brunel v37r4 &  & 4 \\ \hline
+Brunel v37r6 & 1 & 34 \\ \hline
+Brunel v37r7 &  & 2 \\ \hline
+Brunel v37r8 &  1 5 & 322 \\ \hline
+Brunel v41r1 &  & 11 \\ \hline
+Brunel v42r3 & 2 & 31 \\ \hline
+Brunel v43r1 & 1 & 4 \\ \hline
+Brunel v43r2 & 5 & 5 \\ \hline
+Brunel v44r2 &  & 2 \\ \hline
+Brunel v44r3 &  1 & 20 \\ \hline
+Brunel v44r4 & 1 & 14 \\ \hline
+Brunel v44r6 &  & 21 \\ \hline
+DaVinci v26r3 & 2 & 289 \\ \hline
+Gauss v37r2 &  & 13 \\ \hline
+Gauss v37r3 & 1 & 31 \\ \hline
+Gauss v37r4 &  & 9 \\ \hline
+Gauss v37r5 &  & 26 \\ \hline
+Gauss v37r6 & 1 & 8 \\ \hline
+Gauss v37r7 &  & 3 \\ \hline
+Gauss v38r0 & 1 & 6 \\ \hline
+Gauss v38r1 &  & 1 \\ \hline
+Gauss v38r2 &  & 2 \\ \hline
+Gauss v38r3 &  & 20 \\ \hline
+Gauss v46r2 &  & 8 \\ \hline
+Gauss v49r6 &  & 17 \\ \hline
+LHCb v29r1 &  & 12 \\ \hline
+LHCb v35r1 &  & 4 \\ \hline
+Moore v12r6 & 1g4 & 2 \\ \hline
+\hline
+\end{tabular}
